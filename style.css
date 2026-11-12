@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#logo-cabeçalho{
+width: 150px;
+}
+header{
+background-color: #e7d6c5 ; /**/
+}
+.cabeçalho{display: flex;
+color: #5a0c1f; /*Cor do texto*/
+font-family: Arial, Helvetica, sans-serif; /*Fonte das ancoras*/
+font-size: 15px; /*Tamanho da fonte*/
+text-decoration: none; /*Tirar o texto sublinhado*/
+padding: 15px; /*separar os textos*/
+}
+#nave{
+    display: flex; /*Ativar o display flex*/
+    flex-direction: row; /*Centralizar o texto em vertical*/
+    /*justify-content: center;*/
+}
+#nave a{
+    padding-top: 40px; /*Conseguir abaixar o texto*/
+}
+.imagem-body{
+width: 300px;
+height: 400px;
+}
+
+.fotos-fundos{
+display: flex;
+height: 105.3vh;
+
+
+}
+
+
+
+
+
+
+
+
